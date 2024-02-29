@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.1](https://github.com/Sabnock01/revm/compare/revm-primitives-v2.1.0...revm-primitives-v2.1.1) - 2024-02-29
+
+### Other
+- *(deps)* bump auto_impl from 1.1.2 to 1.2.0 ([#1132](https://github.com/Sabnock01/revm/pull/1132))
+- add helper function for spec id ([#1130](https://github.com/Sabnock01/revm/pull/1130))
+
 ## [2.1.0](https://github.com/bluealloy/revm/compare/revm-primitives-v2.0.1...revm-primitives-v2.1.0) - 2024-02-22
 
 ### Added
